@@ -6,4 +6,6 @@ Hello, My name is Zhang Sihe.
 
 ****
 ## 目录
-* [jquery](/jquery/)
+* [Jquery](/jquery/)
+* [Favorites](/favorites/)
+* [Git](/git/)
