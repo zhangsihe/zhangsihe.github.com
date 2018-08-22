@@ -621,8 +621,7 @@
     <tr>
         <td>寄信端邮件服务器为了要防止垃圾信做出传递邮件的限制</td>
         <td class="desc">请在Outlook里的「我的 SMTP 服务器需要验证」打勾来启动 SMTP Auth 的功能
-    
-    设定 SMTP AUTH 的认证通过后再寄信，或是限定某个IP地址才可寄信的方式。</td>
+        设定 SMTP AUTH 的认证通过后再寄信，或是限定某个IP地址才可寄信的方式。</td>
     </tr>
     <tr>
         <td rowspan="2">550</td>
@@ -863,7 +862,7 @@
         <td>发送大量邮件至 Gmail</td>
         <td class="desc">依照大量邮件发送规范，重新检视你的电子邮件是否有不当之处．
     
-    http://www.google.com/mail/help/bulk_mail.html</td>
+   http://www.google.com/mail/help/bulk_mail.html</td>
     </tr>
     <tr>
         <td rowspan="2">551</td>
