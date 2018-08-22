@@ -1,7 +1,4 @@
 
-<title>11111</title>
-
-
 Some scattered notes.
 ---------------------
 
