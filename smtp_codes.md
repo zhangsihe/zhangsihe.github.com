@@ -1,5 +1,5 @@
 
-#### 原文地址：http://cn.evo-mailserver.com.tw/support/smtp_error_code.php
+#### 摘自：http://cn.evo-mailserver.com.tw/support/smtp_error_code.php
 
 <table>
     <caption>
