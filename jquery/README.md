@@ -3,4 +3,4 @@ Some scattered notes.
 
 ****
 ## Catalog
-* [ScrollTop(控制滚动条滑动)](/jquery/scrollTop.md)
+* [页面滚动到顶部，底部，指定位置](/jquery/scrollTop.md)
