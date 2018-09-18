@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<code>
+    <?php
+        $fp = fopen("lock.txt", "r");
+        if(flock($fp,LOCK_EX))
+        {
+            // 处理相关逻辑
+            flock($fp,LOCK_UN);
+        }
+        fclose($fp);
+    ?>
+</code>
+
+<code>
+    <?php
+        $fp = fopen("lock.txt", "r");
+        if(flock($fp,LOCK_EX))
+        {
+            // 处理相关逻辑
+            flock($fp,LOCK_UN);
+        }
+        fclose($fp);
+    ?>
+</code>
+
+</body>
+</html>
