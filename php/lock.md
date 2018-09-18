@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-<code>
+    阻塞
     <?php
         $fp = fopen("lock.txt", "r");
         if(flock($fp,LOCK_EX))
@@ -16,9 +8,8 @@
         }
         fclose($fp);
     ?>
-</code>
-
-<code>
+    
+    非阻塞
     <?php
         $fp = fopen("lock.txt", "r");
         if(flock($fp,LOCK_EX))
@@ -27,8 +18,4 @@
             flock($fp,LOCK_UN);
         }
         fclose($fp);
-    ?>
-</code>
-
-</body>
-</html>
+     ?>
