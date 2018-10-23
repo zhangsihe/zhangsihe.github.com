@@ -12,3 +12,4 @@ Hello, My name is Zhang Sihe.
 * [Favorites](/favorites/)
 * [PHP](/php/)
 * [Go](/go/)
+* [Linux](/linux/)
